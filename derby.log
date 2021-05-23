@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun May 23 13:59:50 IST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0179-9858-3ba9-0000018a39e0 
+on database directory memory:C:\Users\Mystifier\Desktop\course-api-data\eb186271-cfdd-4db5-bab3-54c3f0b39ae8 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@421faab1 
+Loaded from file:/C:/Users/Mystifier/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.2+12-46
+user.dir=C:\Users\Mystifier\Desktop\course-api-data
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
